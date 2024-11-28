@@ -42,7 +42,7 @@ Abaixo, você pode conferir o resultado final do projeto.
 
 ###
 
-### Projeto Completo da Imersão
+### Projeto Completo da Imersão.
 
 
 
@@ -50,7 +50,7 @@ Abaixo, você pode conferir o resultado final do projeto.
 
 ##
 
-### Projeto Com Melhorias
+### Projeto Com Alterações.
 
 
 
